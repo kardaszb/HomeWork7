@@ -1,4 +1,4 @@
-package trainingcompany.model;
+package trainingcompany.cz1.model;
 
 public class Trainer extends Person {
     private boolean isTrener;

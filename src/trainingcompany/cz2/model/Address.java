@@ -1,4 +1,4 @@
-package trainingcompany.model;
+package trainingcompany.cz2.model;
 
 public class Address {
     private String city;

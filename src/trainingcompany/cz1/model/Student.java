@@ -1,4 +1,4 @@
-package trainingcompany.model;
+package trainingcompany.cz1.model;
 
 public class Student extends Person {
     public Student(String firstName, String lastName, Address address) {

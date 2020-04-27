@@ -1,9 +1,9 @@
-package trainingcompany;
+package trainingcompany.cz1;
 
-import trainingcompany.model.Address;
-import trainingcompany.model.Student;
-import trainingcompany.model.Trainer;
-import trainingcompany.model.TrainingGroup;
+import trainingcompany.cz1.model.Address;
+import trainingcompany.cz1.model.Student;
+import trainingcompany.cz1.model.Trainer;
+import trainingcompany.cz1.model.TrainingGroup;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package trainingcompany.model;
+package trainingcompany.cz1.model;
 
 public class TrainingGroup {
     private String groupNo;
